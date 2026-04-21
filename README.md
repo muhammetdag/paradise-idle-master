@@ -41,7 +41,7 @@ Paradise Idle Master is a lightweight, modern desktop application that helps you
 
 ### 🚀 Installation
 
-1. Download the latest installer from the [Releases](https://github.com/paradisedev/paradise-idle-master/releases) page
+1. Download the latest installer from the [Releases](https://github.com/muhammetdag/paradise-idle-master/releases) page
 2. Run `Paradise-Idle-Master_1.0.0_x64_en-US.msi`
 3. Follow the installation wizard
 4. Launch Paradise Idle Master from Start Menu or Desktop
@@ -117,7 +117,7 @@ A: Make sure Steam is running and you're logged in. Also check that you have the
 
 - **Website**: [paradisedev.org](https://paradisedev.org)
 - **Discord**: [discord.gg/paradisedev](https://discord.gg/paradisedev)
-- **Report Issues**: [GitHub Issues](https://github.com/paradisedev/paradise-idle-master/issues)
+- **Report Issues**: [GitHub Issues](https://github.com/muhammetdag/paradise-idle-master/issues)
 
 ### ⚠️ Disclaimer
 
@@ -156,7 +156,7 @@ Paradise Idle Master, Steam oyunlarını idle ederek kart toplamak için tasarla
 
 ### 🚀 Kurulum
 
-1. [Releases](https://github.com/paradisedev/paradise-idle-master/releases) sayfasından son kurulum dosyasını indirin
+1. [Releases](https://github.com/muhammetdag/paradise-idle-master/releases) sayfasından son kurulum dosyasını indirin
 2. `Paradise-Idle-Master_1.0.0_x64_en-US.msi` dosyasını çalıştırın
 3. Kurulum sihirbazını takip edin
 4. Başlat Menüsü veya Masaüstü'nden Paradise Idle Master'ı başlatın
@@ -232,7 +232,7 @@ C: Steam'in çalıştığından ve giriş yaptığınızdan emin olun. Ayrıca e
 
 - **Website**: [paradisedev.org](https://paradisedev.org)
 - **Discord**: [discord.gg/paradisedev](https://discord.gg/paradisedev)
-- **Sorun Bildir**: [GitHub Issues](https://github.com/paradisedev/paradise-idle-master/issues)
+- **Sorun Bildir**: [GitHub Issues](https://github.com/muhammetdag/paradise-idle-master/issues)
 
 ### ⚠️ Sorumluluk Reddi
 
