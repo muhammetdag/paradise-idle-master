@@ -1,6 +1,6 @@
 [package]
 name = "paradise-idle-master"
-version = "1.0.0"
+version = "1.0.1"
 description = "Paradise Idle Master - Steam card idle application"
 authors = ["Paradise Development"]
 edition = "2021"

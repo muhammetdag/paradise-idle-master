@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Paradise Idle Master](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Paradise Idle Master](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
@@ -42,7 +42,7 @@ Paradise Idle Master is a lightweight, modern desktop application that helps you
 ### 🚀 Installation
 
 1. Download the latest installer from the [Releases](https://github.com/muhammetdag/paradise-idle-master/releases) page
-2. Run `Paradise-Idle-Master_1.0.0_x64_en-US.msi`
+2. Run `Paradise-Idle-Master_1.0.1.msi`
 3. Follow the installation wizard
 4. Launch Paradise Idle Master from Start Menu or Desktop
 5. Start idling!
@@ -178,7 +178,7 @@ Paradise Idle Master, Steam oyunlarını idle ederek kart toplamak için tasarla
 ### 🚀 Kurulum
 
 1. [Releases](https://github.com/muhammetdag/paradise-idle-master/releases) sayfasından son kurulum dosyasını indirin
-2. `Paradise-Idle-Master_1.0.0_x64_en-US.msi` dosyasını çalıştırın
+2. `Paradise-Idle-Master_1.0.1.msi` dosyasını çalıştırın
 3. Kurulum sihirbazını takip edin
 4. Başlat Menüsü veya Masaüstü'nden Paradise Idle Master'ı başlatın
 5. İdle etmeye başlayın!
