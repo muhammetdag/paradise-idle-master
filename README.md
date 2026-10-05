@@ -47,6 +47,27 @@ Paradise Idle Master is a lightweight, modern desktop application that helps you
 4. Launch Paradise Idle Master from Start Menu or Desktop
 5. Start idling!
 
+### 🛠️ Building from Source
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muhammetdag/paradise-idle-master.git
+   cd paradise-idle-master
+   ```
+2. Install frontend dependencies:
+   ```bash
+   npm install
+   ```
+3. Place `steam_api64.dll` (from official Steamworks SDK or your Steam folder) into `src-tauri/`.
+4. Run in development mode:
+   ```bash
+   npm run tauri dev
+   ```
+5. Build production installer:
+   ```bash
+   npm run tauri build
+   ```
+
 ### 💡 How to Use
 
 #### Adding Games
@@ -161,6 +182,27 @@ Paradise Idle Master, Steam oyunlarını idle ederek kart toplamak için tasarla
 3. Kurulum sihirbazını takip edin
 4. Başlat Menüsü veya Masaüstü'nden Paradise Idle Master'ı başlatın
 5. İdle etmeye başlayın!
+
+### 🛠️ Kaynak Koddan Derleme
+
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/muhammetdag/paradise-idle-master.git
+   cd paradise-idle-master
+   ```
+2. Arayüz bağımlılıklarını yükleyin:
+   ```bash
+   npm install
+   ```
+3. Steamworks SDK veya Steam dizininizden edineceğiniz `steam_api64.dll` dosyasını `src-tauri/` klasörüne kopyalayın.
+4. Geliştirici modunda çalıştırın:
+   ```bash
+   npm run tauri dev
+   ```
+5. Üretim sürümünü paketleyin:
+   ```bash
+   npm run tauri build
+   ```
 
 ### 💡 Nasıl Kullanılır
 
